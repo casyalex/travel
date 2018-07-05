@@ -73,6 +73,7 @@ export default {
         color #fff
         background $bgColor
         font-size .32rem
+        z-index 2
         .header-fix-back
             position absolute
             top 0
