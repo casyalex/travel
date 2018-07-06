@@ -58,7 +58,7 @@ export default {
         background: #fff;
         height 0
         width 100%
-        padding-bottom 66%
+        padding-bottom 100%
         .gallary-image
             width 100%
         .swiper-pagination
