@@ -69,7 +69,7 @@ export default {
     this.scroll = new Bscroll(this.$refs.wrapper,{
         mouseWheel: true,
         click: true,
-        taps: true
+        tap: true
     });
   }
 };
