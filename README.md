@@ -1,6 +1,9 @@
 # travel
 
-> A Vue.js project
+> Dell-lee的去哪儿app课程访站
+
+config/index.js 设置目录需要放在qunar文件夹下
+proxyTable 未修改，JSON用的本地引入。补上PHP知识后修改。
 
 ## Build Setup
 
